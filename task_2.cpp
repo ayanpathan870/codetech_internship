@@ -1,3 +1,4 @@
+//program that converts temperature between celcius,fahrenheit, and kelvin.the program should allow the user to input a temperature in one scale and output the converted temperature in another scale.
 #include<iostream>
 using namespace std;
 int main()
