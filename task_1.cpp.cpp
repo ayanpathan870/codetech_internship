@@ -1,4 +1,4 @@
-//simple quiz game that presents multiple choice questions to the user.the game should keep track of the user's score and provide feedback on their answers.
+//simple quiz game that presents multiple choice questions to the user.the game should keep track of the user's score and provide feedback on their answers..
 #include<iostream>
 using namespace std;
 int main()
